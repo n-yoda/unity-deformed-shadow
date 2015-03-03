@@ -1,3 +1,4 @@
-# unity-deformed-shadow
+# Unityで床に低負荷なブラー付きの影をで表示する
+### Fast Floor-only Deformed Shadow
 
-Deformed blured shadow which is fast enough to render on mobile devices.
+## 概要
